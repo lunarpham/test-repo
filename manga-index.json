@@ -25,5 +25,14 @@
     "accentColor": "#d92641",
     "publicationStatus": "ongoing",
     "lastUpdate": "2025-04-11T12:41:59.189Z"
+  },
+  {
+    "id": "helloworld",
+    "title": "helloworld",
+    "alternativeTitle": "helloworld",
+    "coverImage": "",
+    "accentColor": "#6d28d9",
+    "publicationStatus": "ongoing",
+    "lastUpdate": "2025-04-11T15:09:25.398Z"
   }
 ]
