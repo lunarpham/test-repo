@@ -6,7 +6,7 @@
   "artist": "helloworld",
   "syncAuthor": true,
   "contentRating": "safe",
-  "publicationStatus": "ongoing",
+  "publicationStatus": "completed",
   "publicationYear": "2016",
   "format": [
     "doujinshi"
@@ -32,5 +32,5 @@
   ],
   "chapters": {},
   "id": "helloworld",
-  "lastUpdate": "2025-04-11T15:41:40.950Z"
+  "lastUpdate": "2025-04-11T15:41:58.188Z"
 }
