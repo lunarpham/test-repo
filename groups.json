@@ -3,15 +3,22 @@
     "id": 1,
     "name": "Lilo Translation",
     "url": "https://liloscans.moe",
-    "facebook": "",
-    "email": ""
+    "facebook": "https://www.facebook.com/LiloTranslation",
+    "email": "contact@liloscans.moe"
   },
   "partners": [
     {
       "id": 2,
       "name": "Ning's Basement",
       "url": "",
-      "facebook": "",
+      "facebook": "https://www.facebook.com/ningbasementofficial",
+      "email": ""
+    },
+    {
+      "id": 3,
+      "name": "HUST Electro-Neko",
+      "url": "",
+      "facebook": "https://www.facebook.com/HUSTneko",
       "email": ""
     }
   ]
