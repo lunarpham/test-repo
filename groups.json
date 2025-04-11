@@ -6,13 +6,5 @@
     "facebook": "",
     "email": ""
   },
-  "partners": [
-    {
-      "id": 1,
-      "name": "Ning's Basement",
-      "url": "",
-      "facebook": "",
-      "email": ""
-    }
-  ]
+  "partners": []
 }
